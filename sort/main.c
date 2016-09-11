@@ -22,7 +22,10 @@ int main()
 
 //	insert_sort2(input, num, less);
 //	shell_sort(input, num);
-	shell_sort2(input, num, less);
+//	shell_sort2(input, num, less);
+//	heap_sort(input, num);
+//	merge_sort(input, num);
+	quick_sort(input, num);
 	return 0;
 }
 
